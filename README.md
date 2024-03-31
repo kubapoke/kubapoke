@@ -12,9 +12,3 @@ I enjoy competitive programming, algorythmics, swimming, sci-fi novels and good 
 
 ## Contact info
 - Email me at [q.paczka@gmail.com](mailto:q.paczka@gmail.com)
-
-
-## Other
-<p align="center">
-  <img src="https://imgs.xkcd.com/comics/sheeple.png" alt="Hey, what are the odds -- five Ayn Rand fans on the same train!  Must be going to a convention." />
-</p>
