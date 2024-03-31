@@ -1,4 +1,13 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubapoke)](https://github.com/kubapoke/github-readme-stats&count_private=true)
+# Welcome to my profile! 👋
+I am  currently a 2nd year student of Computer Science and Information Systems at the Faculty of Mathematics
+and Information sciences at Warsaw University of technology.
+
+## About me
+I enjoy competitive programming, swimming, sci-fi novels and good rogue-like games.
+
+<p align="center">
+  <img src="https://github-readme-stats-eosin-one-98.vercel.app/api/top-langs/?username=kubapoke&theme=dark&layout=compact&hide_border=false&count_private=true" />
+</p>
 
 <!--
 **kubapoke/kubapoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
