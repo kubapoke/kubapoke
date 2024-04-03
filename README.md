@@ -7,7 +7,7 @@ I enjoy competitive programming, algorythmics, swimming, sci-fi novels and good 
 
 ## Top languages
 <p align="center">
-  <img src="https://github-readme-stats-eosin-one-98.vercel.app/api/top-langs/?username=kubapoke&theme=dark&layout=compact&hide_border=false&count_private=true&hide_title=true&hide=TeX" />
+  <img src="https://github-readme-stats-eosin-one-98.vercel.app/api/top-langs/?username=kubapoke&theme=dark&layout=compact&hide_border=false&count_private=true&hide_title=true" />
 </p>
 
 ## Contact info
