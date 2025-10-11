@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 ## About me
-I am  currently a 3rd year student of Computer Science and Information Systems at the Faculty of Mathematics
+I am  currently a 4th year student of Computer Science and Information Systems at the Faculty of Mathematics
 and Information Sciences at Warsaw University of technology.
 
 I enjoy competitive programming, algorythmics, swimming, sci-fi novels and good rogue-like games.
