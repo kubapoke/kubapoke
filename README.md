@@ -5,7 +5,7 @@ and Information Sciences at Warsaw University of technology. Currently continuin
 
 Currently starting my master's degree in computer science (algorithmics specialization) at the University of Warsaw.
 
-I enjoy competitive programming, algorythmics, swimming, sci-fi novels and good rogue-like games.
+I enjoy competitive programming, algorithmics, swimming, sci-fi novels and good rogue-like games.
 
 ## Top languages
 <p align="center">
