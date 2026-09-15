@@ -1,7 +1,9 @@
 # Welcome to my profile! 👋
 ## About me
-I am  currently a 4th year student of Computer Science and Information Systems at the Faculty of Mathematics
-and Information Sciences at Warsaw University of technology.
+I'm a graduate of Computer Science and Information Systems at the Faculty of Mathematics
+and Information Sciences at Warsaw University of technology. Currently continuing my work there as a teaching assistant.
+
+Currently starting my master's degree in computer science (algorithmics specialization) at the University of Warsaw.
 
 I enjoy competitive programming, algorythmics, swimming, sci-fi novels and good rogue-like games.
 
